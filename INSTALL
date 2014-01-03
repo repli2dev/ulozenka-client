@@ -1,0 +1,12 @@
+Requirements
+------------
+ - PHP >= 5.2
+ - CURL PHP extension
+
+
+Install
+-------
+ 1. Copy content of folder /server-side/ into your website
+ 2. Make inc writable
+ 3. Edit server-all.php and set proper <KEY> in API URL.
+ 4. Try access server-all.php through browser, JS with branches should be available.
